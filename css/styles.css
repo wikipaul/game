@@ -1,0 +1,72 @@
+#title{
+  background-color: #000;
+  padding:0 15%;
+}
+
+body{
+  color: #ffc93c;
+  font-family: "Josefin Sans";
+  font-weight: 200;
+  font-size: 1rem;
+
+
+}
+
+h1{
+  font-family: "Josefin Sans";
+  font-weight: 700;
+}
+
+h2{
+  color: #fff;
+}
+.navbar-custom{
+  background-color: #000;
+}
+
+.title-image{
+  width:100%;
+}
+
+.navbar-custom .navbar-brand{
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-size:1rem;
+}
+
+
+.title-text{
+  padding-top: 5%;
+}
+
+#Games{
+  text-align: center;
+}
+
+.gamecarousel{
+  padding: 7% 15%;
+  background-color: #ffc93c;
+}
+
+.game{
+  width: 20%;
+  padding-bottom: 5%;
+}
+
+#Clan{
+  text-align: center;
+}
+
+.clancarousel{
+  padding: 7% 15%;
+  background-color: #000;
+}
+
+.clanmates{
+  width: 25%;
+  border-radius: 100%;
+  margin-right: 20px;
+}
